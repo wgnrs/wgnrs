@@ -1,29 +1,13 @@
-## Welcome to my profile 🎉
-
-👋 Hi, I'm Wagner. <br/>
-👩‍💻 I’m currently studying to be a Software Developer.
-
-## Languages and tools that i use on my day 
-
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div><br/>
-
-
-![wgnrs GitHub stats](https://github-readme-stats.vercel.app/api?username=wgnrs&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wgnrs&layout=compact&theme=dracula) <br/><br/>
-
 <div>
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Eduardo Ribeiro 😃️</a>
+    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/wagner-da-silva-jr//">Wagner 😃️</a>
   </h1>
   
   <p align="center">
     Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
+    Atualmente estudo para ser um desenvolvedor .Net
     <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
       <img
            width="10%" 
@@ -33,10 +17,6 @@
            target="_blank" 
       />
     </a>  
-  </p>
-  
-  <p align="center">
-    Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
   </p>
   
 </div>
