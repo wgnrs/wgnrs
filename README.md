@@ -19,8 +19,10 @@
 </div>
 
 <div align="center" valign="top"><br>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="50"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="50"/> 
+  
 </div><br>
 
 <div align="center">
