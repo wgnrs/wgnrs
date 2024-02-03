@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Back-end e  atualmente estou estudando para ser um desenvolvedor .Net    
+    Atualmente estou estudando para ser um Desenvolvedor Back-End .Net    
   </p><br/>
   
 </div>
