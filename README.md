@@ -5,11 +5,11 @@
 
 ![wgnrs GitHub stats](https://github-readme-stats.vercel.app/api?username=wgnrs&show_icons=true&theme=dracula&count_private=true)
 <br/><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wgnrs&layout=compact&theme=dracula) <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wgnrs&layout=compact&theme=dracula) <br/><br/>
 
 
 
-### Languages and tools that i use on my day <br/><br/><br/><br/>
+### Languages and tools that i use on my day <br/><br/>
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
