@@ -11,6 +11,9 @@
     Atualmente estou estudando para ser um Desenvolvedor Back-End .Net    
   </p>  
 </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/wagner-da-silva-jr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 
 <h2 align="center">
@@ -25,10 +28,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/wagner-da-silva-jr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
  <h2 align="center">
     🐍 Minhas contribuições 🐍
