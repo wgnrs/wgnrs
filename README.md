@@ -22,22 +22,11 @@
 
 <br/>
 
-<div align="center" valign="top">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" height="50" width="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" height="50" width="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" height="50" width="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="50"/>          
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="50" width="50"/>
-</div>
-
-<div align="center" valign="top">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="50" width="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="50" width="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" height="50" width="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="50" width="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" height="50" width="50"/>
-          
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,angular,cs,postgresql,mysql,github,git,visualstudio,vscode,aws&perline=5&theme=dark" />
+  </a>
+</p>
 
 <br/>
 
