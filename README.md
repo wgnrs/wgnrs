@@ -1,6 +1,6 @@
 ### Welcome to my profile
 
-👋 Hi, I'm Wagner
+👋 Hi, I'm Wagner. <br/>
 👩‍💻 I’m currently studying to be a Software Developer.
 
 ![wgnrs GitHub stats](https://github-readme-stats.vercel.app/api?username=wgnrs&show_icons=true&theme=dracula&count_private=true)
