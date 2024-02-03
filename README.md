@@ -5,6 +5,9 @@
 
 ![wgnrs GitHub stats](https://github-readme-stats.vercel.app/api?username=wgnrs&show_icons=true&theme=dracula&count_private=true)
 <br/>
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wgnrs&layout=compact&theme=dracula)
 
 ### Languages and tools that i use on my day
