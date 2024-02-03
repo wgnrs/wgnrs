@@ -7,7 +7,7 @@
   
   <p align="center">
     Sou Desenvolvedor Back-end e  atualmente estou estudando para ser um desenvolvedor .Net    
-  </p>
+  </p><br/>
   
 </div>
 
