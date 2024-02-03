@@ -6,8 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
-    Atualmente estudo para ser um desenvolvedor .Net    
+    Sou Desenvolvedor Back-end e  atualmente estou estudando para ser um desenvolvedor .Net    
   </p>
   
 </div>
