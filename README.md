@@ -20,7 +20,8 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="50"/>          
 </div><br>
 
 <div align="center">
@@ -29,7 +30,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/wgnrs/wgnrs/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/wgnrs/wgnrs/blob/output/github-contribution-grid-snake.svg) -->
   
 </div>
 
