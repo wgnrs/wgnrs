@@ -6,7 +6,7 @@
 ![wgnrs GitHub stats](https://github-readme-stats.vercel.app/api?username=wgnrs&show_icons=true&theme=dracula&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wgnrs&layout=compact)
 
-### Tecnologias que eu uso no meu dia
+### Languages and tools that i use on my day
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
