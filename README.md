@@ -1,6 +1,8 @@
-### Olá, Eu sou o Wagner 👋
+### Hi, I'm Wagner 👋
+###👩‍💻 I’m currently studying to be a Software Developer.
 
 ![wgnrs GitHub stats](https://github-readme-stats.vercel.app/api?username=wgnrs&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wgnrs&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
