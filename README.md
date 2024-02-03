@@ -1,4 +1,4 @@
-### Welcome to my profile
+### Welcome to my profile 🎉
 
 👋 Hi, I'm Wagner. <br/>
 👩‍💻 I’m currently studying to be a Software Developer.
