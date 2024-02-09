@@ -7,8 +7,10 @@
   
   <br/>
   
-  <p align="center">
-    Atualmente estou estudando para ser um Desenvolvedor Back-End .Net    
+  <p>    
+    🔭  Estou dedicando esforços a um projeto com foco na melhoria da minha habilidade de estruturação de dados  😉
+    <br/>
+    🌱  Atualmente estou estudando C# .Net    
   </p>  
 </div>
 <div align="center">
