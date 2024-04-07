@@ -10,7 +10,7 @@
   <p>    
     🔭  Estou dedicando esforços a um projeto com foco na melhoria da minha habilidade de estruturação de dados  😉
     <br/>
-    🌱  Atualmente estou estudando C# .Net    
+    🌱  Atualmente estou estudando para minha certificação em C# na MicroSoft Learn     
   </p>  
 </div>
 <div align="center">
